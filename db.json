@@ -1,4 +1,5 @@
-"dataSBR" : {
+{
+    "dataSBR" : {
     "meta": {
         "code": 200,
         "status": "success",
@@ -215,4 +216,5 @@
             }
         ]
     }
+}
 }
